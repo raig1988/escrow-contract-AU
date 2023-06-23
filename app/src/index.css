@@ -1,7 +1,18 @@
 body {
-  background-color: #eee;
-  display: flex;
+  background-color: black;
   font-family: 'Muli', sans-serif;
+}
+
+.containerContract {
+  display: flex;
+  justify-content: center;
+  align-items: start;
+  background-color: white;
+}
+
+.title {
+  color: white;
+  text-align: center;
 }
 
 .contract, .existing-contracts {

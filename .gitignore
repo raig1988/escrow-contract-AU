@@ -6,3 +6,5 @@ artifacts
 *.bck
 .env
 env
+*env
+*.env
